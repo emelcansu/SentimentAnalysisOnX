@@ -1,0 +1,2 @@
+# SentimentAnalysisOnX
+ Bu proje, Twitter API'sini kullanarak #yazılım hashtag'li tweet'leri toplayan, bu tweet'lerin duygu durumlarını NLTK'nin VADER (Valence Aware Dictionary and sEntiment Reasoner) modülü ile analiz eden ve sonuçları görselleştiren bir Python tabanlı duygu analizi aracıdır. Proje, yazılım geliştirme sürecinde "vibe coding" adı verilen yaratıcı ve esnek bir yaklaşımın nasıl uygulanabileceğini de göstermektedir.
